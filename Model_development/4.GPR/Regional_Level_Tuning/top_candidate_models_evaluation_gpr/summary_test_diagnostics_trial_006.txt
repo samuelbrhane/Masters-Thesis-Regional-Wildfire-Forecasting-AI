@@ -1,0 +1,12 @@
+Model File: trial_006.pkl
+Number of Test Samples: 487
+
+Model Performance on Test Data:
+ - RMSE: 2.61 fires/day
+ - MAE: 1.45 fires/day
+ - Mean Residual: -0.31
+ - Std Residual: 2.59
+ - R² Score: 0.809
+ - Exact Match %: 38.81%
+ - Mean Prediction Std: 0.91
+ - Max Prediction Std: 5.11
