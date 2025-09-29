@@ -1,0 +1,13 @@
+Model File: trial_068.pkl
+Zone ID: 8
+Number of Test Samples (days evaluated): 487
+
+Model Performance on Test Data:
+ - RMSE: 0.72 fires/day
+ - MAE: 0.29 fires/day
+ - Mean Residual: 0.14
+ - Std Residual: 0.71
+ - R² Score: -0.034
+ - Exact Match %: 79.47%
+ - Mean Prediction Std: 0.68
+ - Max Prediction Std: 0.73
