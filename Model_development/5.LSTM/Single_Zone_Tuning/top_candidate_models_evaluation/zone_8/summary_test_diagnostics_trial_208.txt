@@ -1,0 +1,11 @@
+Model File: trial_208.h5
+Zone ID: 8
+Number of Test Samples (days evaluated): 460
+
+Model Performance on Test Data:
+ - RMSE: 0.70 fires/day
+ - MAE: 0.26 fires/day
+ - Mean Residual: 0.22
+ - Std Residual: 0.66
+ - R² Score: 0.063
+ - Exact Match %: 82.17%
