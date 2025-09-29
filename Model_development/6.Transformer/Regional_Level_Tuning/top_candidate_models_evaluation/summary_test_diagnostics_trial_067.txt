@@ -1,0 +1,11 @@
+Model File: trial_067.h5
+Region: Regional
+Number of Test Samples (days evaluated): 441
+
+Model Performance on Test Data:
+ - RMSE: 3.06 fires/day
+ - MAE: 1.73 fires/day
+ - Mean Residual: 0.02
+ - Std Residual: 3.06
+ - R² Score: 0.745
+ - Exact Match %: 39.01%
