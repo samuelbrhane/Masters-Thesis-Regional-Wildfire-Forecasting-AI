@@ -1,0 +1,10 @@
+Model File: trial_005.h5
+Number of Test Samples: 469
+
+Model Performance on Test Data:
+ - RMSE: 2.81 fires/day
+ - MAE: 1.53 fires/day
+ - Mean Residual: 0.13
+ - Std Residual: 2.80
+ - R² Score: 0.784
+ - Exact Match %: 42.00%
