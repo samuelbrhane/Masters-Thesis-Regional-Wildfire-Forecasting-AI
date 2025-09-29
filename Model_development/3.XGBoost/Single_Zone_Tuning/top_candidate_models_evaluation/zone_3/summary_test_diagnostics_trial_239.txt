@@ -1,0 +1,11 @@
+Model File: trial_239.json
+Zone ID: 3
+Number of Test Samples (days evaluated): 487
+
+Model Performance on Test Data:
+ - RMSE: 0.76 fires/day
+ - MAE: 0.29 fires/day
+ - Mean Residual: 0.08
+ - Std Residual: 0.76
+ - R² Score: 0.623
+ - Exact Match %: 80.49%
